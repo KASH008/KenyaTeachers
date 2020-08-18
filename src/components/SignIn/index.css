@@ -1,0 +1,22 @@
+.signin {
+  position: relative;
+  height: 300px;
+  width: 400px;
+  background-color: rgb(145, 28, 28);
+  top: 80px;
+  border-radius: 20px;
+  color: white;
+  margin-left: 20px;
+}
+.btn-signin{
+background-color: green;
+border-radius:10px;
+cursor: pointer;
+color:#ececf5;
+
+}
+.btn-signin :hover,
+.btn-signin :active{
+  height:30px;
+  width: 40px;
+}

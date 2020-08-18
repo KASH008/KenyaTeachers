@@ -1,0 +1,39 @@
+
+.nav-container {
+  top: 0;
+  position: fixed;
+  width: 100%;
+  background: #8d3b8c;
+  height: 56px;
+}
+.toolbar__logo a {
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+  padding: px;
+  top:0;
+}
+
+.navigation-menu {
+  font-size: 1.5rem;
+  list-style: none;
+  margin: 2px;
+  padding: 0;
+  display: flex;
+}
+.spacer {
+  flex: 1;
+  background: #8d3b8c;
+}
+.navigation-menu li a{
+  background: #8d3b8c;
+  padding: 0 0.5rem;
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+  display: flex;
+}
+.navigation-menu li a:hover,
+.navigation-menu li a:active {
+  color: #fa923f;
+}

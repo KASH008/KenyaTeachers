@@ -1,0 +1,19 @@
+.signup {
+  position: relative;
+  height: 300px;
+  width: 400px;
+  background-color: rgb(145, 28, 28);
+  top: 80px;
+  border-radius: 20px;
+  color: white;
+  margin-left: 20px;
+}
+.signup-link{
+color:rgb(92, 212, 22);
+}
+.btn-button :hover{
+border-radius: 10px;
+
+}
+.signup-link :hover{
+}

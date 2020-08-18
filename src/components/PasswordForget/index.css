@@ -1,0 +1,10 @@
+.forgetpwd-link {
+  color: red;
+}
+.pwdfgt-cont {
+  justify-content: center;
+  background-color: chocolate;
+  color: white;
+  border-radius: 20px;
+  height: 60px;
+}

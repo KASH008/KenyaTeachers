@@ -1,0 +1,29 @@
+.contact {
+  margin: auto;
+  box-sizing: border-box;
+  height: 200px;
+  width: 100%;
+  background-color: #a8172f;
+  border-radius: 20px;
+  position: relative;
+}
+.btn-primary {
+  background-color: green;
+  font-size: 20px;
+  position: absolute;
+  left: 35%;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+.btn-btn :hover,
+.btn-btn :active {
+  color: orange;
+  height: 40px;
+}
+
+.form-group {
+  color: white;
+  position: relative;
+  margin-top: 20px;
+}
